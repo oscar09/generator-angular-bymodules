@@ -1,0 +1,35 @@
+{
+  "name": "generator-angular-bymodules",
+  "version": "0.0.0",
+  "description": "Angular-am organizes an angular project by modules. Directives, filters, services, etc are kept in common folders.",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "oscar09/generator-angular-bymodules",
+  "author": {
+    "name": "",
+    "email": "",
+    "url": "https://github.com/oscar09"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.16.0",
+    "chalk": "~0.4.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}
