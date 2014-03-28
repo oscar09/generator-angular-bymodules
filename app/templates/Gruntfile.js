@@ -53,6 +53,28 @@ module.exports = function (grunt) {
 			server: {
 				path: 'http://localhost:<%%= connect.options.port %>'
 			}
+		},
+		docular: {
+			docular_webapp_target : 'docs',
+			groups: [
+				{
+					groupTitle: 'Fandora Client',
+					groupId: 'fandoraclient',
+					groupIcon: 'icon-truck',
+					sections: [
+						{
+							id: 'index',
+							name: 'Index',
+							title: 'Documentation',
+							scripts: [
+								'app/scripts'
+							]
+						}
+					]
+				}
+			],
+			showDocularDocs: false,
+			showAngularDocs: false
 		}
 	});
 

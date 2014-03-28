@@ -17,7 +17,7 @@ angular.module('<%= _.slugify(appName) %>', [
 ;
 
 /**
- * @ngdoc object
+ * @ngdoc function
  * @name MainCtrl
  * @id <%= _.slugify(appName) %>.MainCtrl
  * @description Main Controller.
