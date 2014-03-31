@@ -10,8 +10,8 @@
     <file path="/_package.json" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1393901142345" ignored="false" />
     <file path="/_config.json" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1393899166269" ignored="false" />
     <file path="/_index.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1393911612911" ignored="false" />
-    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/Gruntfile.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1393911672244" ignored="false" />
-    <file path="/Gruntfile.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1393911855849" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/Gruntfile.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396240427778" ignored="false" />
+    <file path="/Gruntfile.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396240427778" ignored="false" />
     <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/generator-fandora/app/index.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1393977566780" ignored="false" />
     <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/generator-fandora/module/index.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1393981791154" ignored="false" />
     <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/generator-fandora/module/templates/_module.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1393981276903" ignored="false" />
@@ -26,6 +26,47 @@
     <file path="/_module.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1395967359817" ignored="false" />
     <file path="/_directive.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1395968499279" ignored="false" />
     <file path="/_filter.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1395968572190" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/modules/users/customers/edit/customersEdit_employerCtrl.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1395968837057" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/directives/field/field_phones_array.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396035599197" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/modules/users/customers/edit/users_customers_add_contact.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396044510433" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/modules/users/customers/edit/customersEdit_notesCtrl.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1395968837057" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/modules/users/customers/edit/customersEdit_ReferencesCtrl.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1395968837057" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/modules/users/customers/edit/users_customers_add_employer.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1395968837057" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/modules/users/customers/edit/customersEdit_paymentsCtrl.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1395968837057" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/directives/field/field.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396035599197" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/index.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1395968837057" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/directives/dropdownSelect/dropdownSelect.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396035599197" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/modules/users/customers/edit/customersEdit.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1395968837057" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/modules/users/customers/edit/customersEdit.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396039758594" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/translations/en_US.json" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396044510433" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/directives/field/field_emails_array.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396035599197" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/modules/users/customers/edit/customersEdit_contactCtrl.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396035599197" ignored="false" />
+    <file path="/customersEdit_contactCtrl.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396023770540" ignored="false" />
+    <file path="/users_customers_add_contact.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396044134719" ignored="false" />
+    <file path="/field.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396020607021" ignored="false" />
+    <file path="/dropdownSelect.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396020998209" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/resources/customer/Customer.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396021707064" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/modules/settings/loansettings/loansettings_paymentsCtrl.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396021707064" ignored="false" />
+    <file path="/field_phones_array.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396021774127" ignored="false" />
+    <file path="/field_emails_array.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396021784790" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/styles/bm_main.css" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396038866575" ignored="false" />
+    <file path="/bm_main.css" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396038699214" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/services/Helpers/Helpers.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396035599197" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/modules/users/customers/edit/users_customers_add_pmt.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396035599197" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/directives/avatar/avatar.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396044510433" ignored="false" />
+    <file path="/avatar.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396041634086" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/app/scripts/directives/avatar/avatar.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396045336015" ignored="false" />
+    <file path="/customersEdit.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396037624511" ignored="false" />
+    <file path="/avatar.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396045335491" ignored="false" />
+    <file path="/a.dummy" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396240891323" ignored="false" />
+    <file path="$PROJECT_DIR$/../autopal/fandora/webroot/client/node_modules/bower/node_modules/open/.jshintignore" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396240979225" ignored="false" />
+    <file path="$PROJECT_DIR$/../habersipega/.jshintrc" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396241165816" ignored="false" />
+    <file path="/.jshintrc" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396241165816" ignored="false" />
+    <file path="$PROJECT_DIR$/../habersipega/Gruntfile.js" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396241545733" ignored="false" />
+    <file path="$PROJECT_DIR$/../habersipega/index.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396242791388" ignored="false" />
+    <file path="/index.html" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396242620116" ignored="false" />
+    <file path="$PROJECT_DIR$/../habersipega/bower.json" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396241998671" ignored="false" />
+    <file path="$PROJECT_DIR$/../habersipega/app/bower_components/bootstrap/.bower.json" changelist="c22cbf00-c815-473d-b2e7-8a85bd6496f2" time="1396242022458" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +95,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/directive/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="7" selection-start="557" selection-end="557" vertical-scroll-proportion="0.33860046">
+            <state line="22" column="43" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="13" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="108" column="26" selection-start="2794" selection-end="2794" vertical-scroll-proportion="0.53125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/_index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="69" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_index_grunt.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/_index_grunt.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="7" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/_package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="40" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -77,17 +163,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="8" column="26" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <marker date="1395968499040" expanded="true" signature="249:443" placeholder="[...]" />
+                <marker date="1395968499040" expanded="true" signature="263:442" placeholder="{...}" />
+                <marker date="1395968499040" expanded="true" signature="428:434" placeholder="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/templates/_app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="18" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -96,38 +175,7 @@
         <entry file="file://$PROJECT_DIR$/controller/templates/_controller.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="3" column="1" selection-start="0" selection-end="322" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controller/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="7" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_module.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/templates/_module.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_module.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/templates/_module.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="3" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -142,12 +190,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/templates/_bower.json" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/app/templates/_index.html" />
-        <option value="$PROJECT_DIR$/app/index.js" />
-        <option value="$PROJECT_DIR$/app/templates/_package.json" />
-        <option value="$PROJECT_DIR$/app/templates/Gruntfile.js" />
         <option value="$PROJECT_DIR$/app/templates/_app.js" />
         <option value="$PROJECT_DIR$/controller/templates/_controller.js" />
         <option value="$PROJECT_DIR$/controller/index.js" />
@@ -158,6 +202,10 @@
         <option value="$PROJECT_DIR$/filter/templates/_filter.js" />
         <option value="$PROJECT_DIR$/filter/index.js" />
         <option value="$PROJECT_DIR$/directive/index.js" />
+        <option value="$PROJECT_DIR$/app/templates/_package.json" />
+        <option value="$PROJECT_DIR$/app/templates/_index_grunt.html" />
+        <option value="$PROJECT_DIR$/app/templates/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/app/index.js" />
       </list>
     </option>
   </component>
@@ -193,7 +241,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -222,94 +269,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generator-angular-bymodules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generator-angular-bymodules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generator-angular-bymodules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generator-angular-bymodules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="filter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generator-angular-bymodules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generator-angular-bymodules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="filter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generator-angular-bymodules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generator-angular-bymodules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generator-angular-bymodules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generator-angular-bymodules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,10 +310,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26307365" sideWeight="0.67031765" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32968238" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -420,84 +386,35 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/yeoman-generator/node_modules/shelljs/shell.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="36" selection-start="947" selection-end="947" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="16" selection-start="347" selection-end="347" vertical-scroll-proportion="-5.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="40" selection-start="2048" selection-end="2048" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/_bower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="51" selection-start="203" selection-end="203" vertical-scroll-proportion="-4.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/_package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="33" selection-start="348" selection-end="348" vertical-scroll-proportion="-7.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="2" selection-start="1757" selection-end="1757" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="7" column="51" selection-start="203" selection-end="203" vertical-scroll-proportion="-4.375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/_app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="18" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="19" column="18" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controller/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="7" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="11" column="7" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/templates/_module.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/templates/_module.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="3" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="28" column="3" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controller/templates/_controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="1" selection-start="0" selection-end="322" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -512,18 +429,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="26" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1395968499040" expanded="true" signature="249:443" placeholder="[...]" />
+            <marker date="1395968499040" expanded="true" signature="263:442" placeholder="{...}" />
+            <marker date="1395968499040" expanded="true" signature="428:434" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/filter/templates/_filter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="310" selection-end="310" vertical-scroll-proportion="0.2200903">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="13" column="7" selection-start="310" selection-end="310" vertical-scroll-proportion="0.2200903" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/filter/index.js">
@@ -535,7 +450,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/directive/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="7" selection-start="557" selection-end="557" vertical-scroll-proportion="0.33860046">
+        <state line="22" column="43" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/_package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="40" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/_index_grunt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="7" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="69" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="13" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="26" selection-start="2794" selection-end="2794" vertical-scroll-proportion="0.53125">
           <folding />
         </state>
       </provider>

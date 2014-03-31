@@ -103,9 +103,10 @@ var AngularBymodulesGenerator = yeoman.generators.Base.extend({
     this.mkdir('app/modules');
     this.mkdir('app/resources');
     this.mkdir('app/services');
-    this.mkdir('fonts');
-    this.mkdir('img');
-    this.mkdir('styles');
+    this.mkdir('assets');
+    this.mkdir('assets/fonts');
+    this.mkdir('assets/images');
+    this.mkdir('assets/css');
     this.mkdir('vendor');
     this.mkdir('docs');
     this.mkdir('tests');
@@ -117,8 +118,8 @@ var AngularBymodulesGenerator = yeoman.generators.Base.extend({
 	  this.template('_bower.json', 'bower.json');
 	  this.template('_app.js', 'app/app.js');
 	  this.template('_index.html', 'index.html');
+	  this.template('_index_grunt.html', 'index_grunt.html');
 	  this.template('Gruntfile.js', 'Gruntfile.js');
-    //this.copy('_bower.json', 'bower.json');
   },
 
   projectfiles: function () {

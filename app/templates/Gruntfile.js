@@ -11,7 +11,16 @@ module.exports = function (grunt) {
 	// Load grunt tasks automatically
 	require('load-grunt-tasks')(grunt);
 
+	// Time how long tasks take. Can help when optimizing build times
+	require('time-grunt')(grunt);
+
 	grunt.initConfig({
+		// Project settings
+		yeoman: {
+			// configurable paths
+			app: require('./bower.json').appPath || 'app',
+			dist: 'dist'
+		},
 		watch: {
 			options: {
 				nospawn: true,
@@ -31,6 +40,16 @@ module.exports = function (grunt) {
 				html: 'index.html',
 				exclude: ['bower_components/angular/angular.js', 'bower_components/showup/showup.js']
 			}
+		},
+		jshint: {
+			options: {
+				jshintrc: '.jshintrc',
+				reporter: require('jshint-stylish')
+			},
+			all: [
+				'Gruntfile.js',
+				'<%= yeoman.app %>/scripts/{,*/}*.js'
+			]
 		},
 		connect: {
 			options: {
@@ -75,14 +94,37 @@ module.exports = function (grunt) {
 			],
 			showDocularDocs: false,
 			showAngularDocs: false
+		},
+		includeSource: {
+			options: {
+				basePath: 'app',
+				includePath: '/',
+				template: {
+					html: {
+						js: '<script type="text/javascript" th:src="@{{filePath}}}"></script>',
+						css: '<link rel="stylesheet" type="text/css" th:href="@{{filePath}}}" />'
+					}
+				}
+			},
+			myTarget: {
+				files: {
+					'app/index.html': 'app/index_grunt.html'
+				}
+			}
 		}
 	});
 
 	grunt.registerTask('server',
 		[
+			'jshint',
+			'includeSource',
 			'bower-install',
 			'connect:livereload',
 			'open',
 			'watch'
+		]);
+	grunt.registerTask('document',
+		[
+			'docular'
 		]);
 };
