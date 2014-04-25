@@ -12,7 +12,7 @@ angular.module('<%= angular_module_name %>',
 		[
 		])
 	.config(['$routeProvider', function ($routeProvider) {
-		$routeProvider.when('<%= angular_path %>', { //@TODO update the route & template if needed.
+		$routeProvider.when('/<%= angular_path %>', { //@TODO update the route & template if needed.
 			templateUrl:'scripts/modules/<%= angular_path %>/<%= module_name %>.html',
 			controller:'<%=module_name%>Ctrl',
 			resolve:{

@@ -1,6 +1,7 @@
 'use strict';
 var util = require('util');
 var yeoman = require('yeoman-generator');
+var chalk = require('chalk');
 
 
 var ModuleGenerator = yeoman.generators.NamedBase.extend({
@@ -11,7 +12,8 @@ var ModuleGenerator = yeoman.generators.NamedBase.extend({
 			return false;
 		}
 		var module_route = this.name.split('.');
-		var file_name = module_route[module_route.length - 1];
+		var file_name = module_route[module_route.length - 1] || this.name;
+
 		var dir_path = [];
 		var dir_path_string = '';
 
@@ -37,6 +39,15 @@ var ModuleGenerator = yeoman.generators.NamedBase.extend({
 			this.template('_module.js', 'app/scripts/modules/' + this.module_path + '/' + this.module_name + '/' + this.module_name + '.js');
 			console.log(chalk.blue('Creating HTML file ...'));
 			this.copy('_module.html', 'app/scripts/modules/' + this.module_path + '/' + this.module_name + '/' + this.module_name + '.html');
+		}else
+		{
+			console.log(chalk.blue('Creating JS file ...'));
+			this.angular_module_name = 'modules.'+ this.module_name.toLowerCase();
+
+			this.angular_path = this.module_name.toLowerCase();
+			this.template('_module.js', 'app/scripts/modules/' + this.module_name + '/' + this.module_name + '.js');
+			console.log(chalk.blue('Creating HTML file ...'));
+			this.copy('_module.html', 'app/scripts/modules/' + this.module_name + '/' + this.module_name + '.html');
 		}
 	}
 });
